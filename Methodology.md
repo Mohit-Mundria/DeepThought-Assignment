@@ -16,6 +16,21 @@ To eliminate superficial Google search results, the target universe was defined 
 ## 2. Multi-Stage Sourcing Pipeline
 The identification process bypassed broad keyword inquiries and executed a top-of-funnel capture across high-signal business registries:
 ---
+[Stage 1: Registry Mining]
+├── MCA Filings (Pune RoC) for U29/U34 industrial registration classifications
+├── B2B Directories (Zauba Corp, Tofler, Tracxn, IndiaMart OEM lists)
+└── Automated Extraction of companies within the ₹30Cr–₹500Cr revenue boundary
+│
+[Stage 2: Operational Gate Filtration]
+├── Verification of active manufacturing sites (MIDC plots in Chakan, Bhosari, etc.)
+└── Exclusion of pure traders, brokers, and testing labs (Eligibility Gate E1)
+│
+[Stage 3: Systems & Promoter Signal Checking]
+├── Cross-referencing LinkedIn for IT/SAP personnel and job postings
+└── Mapping leadership lineage via MCA director data to identify Gen-2 board entrants
+│
+[Stage 4: Granular Federer Scoring]
+└── Evaluation against the 6 core criteria to isolate A & B-band prospects
 
 ## 3. Strict Gate Filtering Execution
 Every candidate passed through two absolute eligibility checkpoints prior to undergoing final framework scoring:
